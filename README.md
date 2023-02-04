@@ -33,22 +33,6 @@ It includes notebooks that can be run stand-alone:
 4. [04-Latent-Diffusion](/) - latent diffusion suitable for high-resolution data
 5. [05-Conditional-Latent-Diffusion](/) - image translation with latent diffusion
 
-Most examples are one of two types of models, trainable within hours:
-
-**PixelDiffusion (Good for small images :baby:)**
-Appropriate for LR data. Direct diffusion in pixel space.
-| **Image Resolution:** | 64x64 |
-|---|---|
-| **Training Time** | ~9 hrs |
-| **Memory Usage**  | X GB |
-
-**LatentDiffusion (Good for large images :whale2:)**
-Useful for HR data. Latent diffusion in compressed space.
-| **Image Resolution:** | 256x256 |
-|---|---|
-| **Training Time** | ~11 hrs |
-| **Memory Usage**  | X GB |
-
 ---
 ### :bulb: **Notes**
 Short summary notes are released as part of this repository and they overlap semantically with the notebooks!
@@ -63,16 +47,48 @@ Short summary notes are released as part of this repository and they overlap sem
 The course is released on YouTube and provides an extension to this repository. Some additional topics are covered, such as seminal papers and on-going research work.
 
 The current plan for the video course (links added upon publishing):
-1. [#01 Basics: Denoising Diffusion Process](/)
-2. [#02 Basics: Denoising Diffusion of Images](/)
-3. [#03 Practical: Unconditional Diffusion in Low-Resolution](/)
-4. [#04 Extra: Summary of Seminal Works](/)
-5. [#05 Basics: Conditional Diffusion](/)
-6. [#06 Practical: Condition Diffusion in Low-Resolution](/)
-7. [#07 Basics: High-Resolution Diffusion](/)
-8. [#08 Practical: High-Resolution Diffusion](/)
-9. [#09 Extra: Diffusion Applications](/)
-10. [#10 Extra: Further Insight into Diffusion](/)
+1. :soon: [#01 Basics: Denoising Diffusion Process](/)
+2. :soon: [#02 Basics: Denoising Diffusion of Images](/)
+3. :soon: [#03 Practical: Unconditional Diffusion in Low-Resolution](/)
+4. :soon: [#04 Extra: Summary of Seminal Works](/)
+5. :soon: [#05 Basics: Conditional Diffusion](/)
+6. :soon: [#06 Practical: Condition Diffusion in Low-Resolution](/)
+7. :soon: [#07 Basics: High-Resolution Diffusion](/)
+8. :soon: [#08 Practical: High-Resolution Diffusion](/)
+9. :soon: [#09 Extra: Diffusion Applications](/)
+10. :soon: [#10 Extra: Further Insight into Diffusion](/)
+
+---
+
+### :moneybag: Training Cost
+
+Most examples are one of two types of models, trainable within a day:
+
+**PixelDiffusion (Good for small images :baby:)**
+Appropriate for LR data. Direct diffusion in pixel space.
+| **Image Resolution** | 64x64 |
+|---|---|
+| **Training Time** | ~10 hrs |
+| **Memory Usage**  | ~4 GB |
+
+![out-pixel-conditional-1](https://user-images.githubusercontent.com/13435425/216780421-3613e80f-312b-4fed-8e24-9be22902a40f.png)
+
+![out-pixel-conditional-2](https://user-images.githubusercontent.com/13435425/216780427-5f737606-6b34-4477-88d4-187b863df03a.png)
+
+![out-pixel-conditional-3](https://user-images.githubusercontent.com/13435425/216780431-e3cf6a78-edc4-4ec6-9d3f-8a38aa01d5e0.png)
+
+**LatentDiffusion (Good for large images :whale2:)**
+Useful for HR data. Latent diffusion in compressed space.
+| **Image Resolution** | 256x256 |
+|---|---|
+| **Training Time** | ~20 hrs |
+| **Memory Usage**  | ~5 GB |
+
+![out-latent-conditional-1](https://user-images.githubusercontent.com/13435425/216780511-1f2d60ec-2d7e-4b5c-b851-c330687e55c3.png)
+
+![out-latent-conditional-2](https://user-images.githubusercontent.com/13435425/216780522-cc20ad37-4bf9-4a1d-af59-75c697029553.png)
+
+![out-latent-conditional-3](https://user-images.githubusercontent.com/13435425/216780528-e155b541-4dab-453d-9958-72e6350ae659.png)
 
 ---
 

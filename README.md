@@ -33,14 +33,20 @@ It includes notebooks that can be run stand-alone:
 4. [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mikonvergence/DiffusionFastForward/blob/master/04-Latent-Diffusion-colab.ipynb) [04-Latent-Diffusion](https://github.com/mikonvergence/DiffusionFastForward/blob/master/04-Latent-Diffusion.ipynb) - latent diffusion suitable for high-resolution data
 5. [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mikonvergence/DiffusionFastForward/blob/master/05-Conditional-Latent-Diffusion-colab.ipynb) [05-Conditional-Latent-Diffusion](https://github.com/mikonvergence/DiffusionFastForward/blob/master/05-Conditional-Latent-Diffusion.ipynb) - image translation with latent diffusion
 
+### Dependencies
+Assuming `torch` and `torchvision` is installed:
+```bash
+pip install pytorch-lightning diffusers einops
+```
+
 ---
 ### :bulb: **Notes**
 Short summary notes are released as part of this repository and they overlap semantically with the notebooks!
-1. [01-Diffusion-Sandbox](/) - visualizations of the diffusion process
-2. [02-Pixel-Diffusion](/) - basic diffusion suitable for low-resolution data
-3. [03-Conditional-Pixel-Diffusion](/) - image translation with diffusion for low-resolution data
-4. [04-Latent-Diffusion](/) - latent diffusion suitable for high-resolution data
-5. [05-Conditional-Latent-Diffusion](/) - image translation with latent diffusion
+1. [01-Diffusion-Theory](https://github.com/mikonvergence/DiffusionFastForward/blob/master/notes/01-Diffusion-Theory.md) - visualizations of the diffusion process
+2. [02-Pixel-Diffusion](https://github.com/mikonvergence/DiffusionFastForward/blob/master/notes/02-Pixel-Diffusion.md) - basic diffusion suitable for low-resolution data
+3. [03-Conditional-Pixel-Diffusion](https://github.com/mikonvergence/DiffusionFastForward/blob/master/notes/03-Conditional-Pixel-Diffusion.md) - image translation with diffusion for low-resolution data
+4. [04-Latent-Diffusion](https://github.com/mikonvergence/DiffusionFastForward/blob/master/notes/04-Latent-Diffusion.md) - latent diffusion suitable for high-resolution data
+5. [05-Conditional-Latent-Diffusion](https://github.com/mikonvergence/DiffusionFastForward/blob/master/notes/05-Conditional-Latent-Diffusion.md) - image translation with latent diffusion
 
 ---
 ### :tv: **Video Course** (to be released on YouTube)

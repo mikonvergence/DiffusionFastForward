@@ -53,16 +53,17 @@ Short summary notes are released as part of this repository and they overlap sem
 The course is released on YouTube and provides an extension to this repository. Some additional topics are covered, such as seminal papers and on-going research work.
 
 The current plan for the video course (links added upon publishing):
-1. :soon: [#01 Basics: Denoising Diffusion Process](/)
-2. :soon: [#02 Basics: Denoising Diffusion of Images](/)
-3. :soon: [#03 Practical: Unconditional Diffusion in Low-Resolution](/)
-4. :soon: [#04 Extra: Summary of Seminal Works](/)
-5. :soon: [#05 Basics: Conditional Diffusion](/)
-6. :soon: [#06 Practical: Condition Diffusion in Low-Resolution](/)
-7. :soon: [#07 Basics: High-Resolution Diffusion](/)
-8. :soon: [#08 Practical: High-Resolution Diffusion](/)
-9. :soon: [#09 Extra: Diffusion Applications](/)
-10. :soon: [#10 Extra: Further Insight into Diffusion](/)
+* :tv: [#00 Introduction](https://youtu.be/sXBPyKycOX8?list=PL5RHjmn-MVHDMcqx-SI53mB7sFOqPK6gN)
+* :tv: [#01 Basics: Denoising Diffusion Process](https://youtu.be/7d73Y30viC8?list=PL5RHjmn-MVHDMcqx-SI53mB7sFOqPK6gN)
+* :tv: [#02 Basics: Denoising Diffusion of Images](https://youtu.be/Whykds7oWQI?list=PL5RHjmn-MVHDMcqx-SI53mB7sFOqPK6gN)
+* :tv: [#03 Practical: Unconditional Diffusion in Low-Resolution](https://youtu.be/eVYrHiwqBbE?list=PL5RHjmn-MVHDMcqx-SI53mB7sFOqPK6gN)
+* :soon: [#04 Extra: Summary of Seminal Works](/)
+* :tv: [#05 Basics: Conditional Diffusion](https://youtu.be/KuKeM_NbdSM?list=PL5RHjmn-MVHDMcqx-SI53mB7sFOqPK6gN)
+* :tv: [#06 Practical: Condition Diffusion in Low-Resolution](https://youtu.be/C-HjC-Kh4M0?list=PL5RHjmn-MVHDMcqx-SI53mB7sFOqPK6gN)
+* :tv: [#07 Basics: High-Resolution Diffusion](https://youtu.be/QaasB5PYMYs?list=PL5RHjmn-MVHDMcqx-SI53mB7sFOqPK6gN)
+* :tv: [#08 Practical: High-Resolution Diffusion](https://youtu.be/SPOIBtYEIxw?list=PL5RHjmn-MVHDMcqx-SI53mB7sFOqPK6gN)
+* :soon: [#09 Extra: Diffusion Applications](/)
+* :soon: [#10 Extra: Further Insight into Diffusion](/)
 
 ---
 

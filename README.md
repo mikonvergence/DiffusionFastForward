@@ -23,7 +23,7 @@ There are three elements integrated into this project:
 * :tv: **Video Course** (to be released on YouTube)
 
 ---
-### :computer: Code
+### :computer: [**Code**](https://github.com/mikonvergence/DiffusionFastForward/tree/master/src)
 This repository offers a starting point for training diffusion models on new types of data. It can serve as a baseline that can hopefully be developed into more robust solutions based on the specific features of the performed generative task.
 
 It includes notebooks that can be run stand-alone:
@@ -40,7 +40,7 @@ pip install pytorch-lightning diffusers einops
 ```
 
 ---
-### :bulb: **Notes**
+### :bulb: [**Notes**](https://github.com/mikonvergence/DiffusionFastForward/tree/master/notes)
 Short summary notes are released as part of this repository and they overlap semantically with the notebooks!
 1. [01-Diffusion-Theory](https://github.com/mikonvergence/DiffusionFastForward/blob/master/notes/01-Diffusion-Theory.md) - visualizations of the diffusion process
 2. [02-Pixel-Diffusion](https://github.com/mikonvergence/DiffusionFastForward/blob/master/notes/02-Pixel-Diffusion.md) - basic diffusion suitable for low-resolution data
@@ -49,7 +49,7 @@ Short summary notes are released as part of this repository and they overlap sem
 5. [05-Conditional-Latent-Diffusion](https://github.com/mikonvergence/DiffusionFastForward/blob/master/notes/05-Conditional-Latent-Diffusion.md) - image translation with latent diffusion
 
 ---
-### :tv: **Video Course** (released on YouTube)
+### :tv: [**Video Course**](https://youtube.com/playlist?list=PL5RHjmn-MVHDMcqx-SI53mB7sFOqPK6gN) (released on YouTube)
 The course is released on YouTube and provides an extension to this repository. Some additional topics are covered, such as seminal papers and on-going research work.
 
 <img width="1596" alt="Screenshot 2023-03-01 at 19 46 20" src="https://user-images.githubusercontent.com/13435425/222248673-bfcce06c-0f5b-421b-92b2-b4ed130c0dfb.png">

@@ -1,4 +1,4 @@
-# DiffusionFastForward
+![Asset 3](https://user-images.githubusercontent.com/13435425/222423296-6581502e-d1cc-4158-9a28-c21cd6830b61.png)
 
 ### :rocket: Diffusion models are making the headlines as a new generation of powerful generative models.
 

@@ -52,7 +52,7 @@ Short summary notes are released as part of this repository and they overlap sem
 ### :tv: [**Video Course**](https://youtube.com/playlist?list=PL5RHjmn-MVHDMcqx-SI53mB7sFOqPK6gN) (released on YouTube)
 The course is released on YouTube and provides an extension to this repository. Some additional topics are covered, such as seminal papers and on-going research work.
 
-<img width="1596" alt="Screenshot 2023-03-01 at 19 46 20" src="https://user-images.githubusercontent.com/13435425/222248673-bfcce06c-0f5b-421b-92b2-b4ed130c0dfb.png">
+[<img width="1596" alt="Screenshot 2023-03-01 at 19 46 20" src="https://user-images.githubusercontent.com/13435425/222248673-bfcce06c-0f5b-421b-92b2-b4ed130c0dfb.png">](https://youtube.com/playlist?list=PL5RHjmn-MVHDMcqx-SI53mB7sFOqPK6gN)
 
 The current plan for the video course (links added upon publishing):
 * :tv: [#00 Introduction](https://youtu.be/sXBPyKycOX8?list=PL5RHjmn-MVHDMcqx-SI53mB7sFOqPK6gN)

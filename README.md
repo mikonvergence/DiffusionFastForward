@@ -36,7 +36,7 @@ It includes notebooks that can be run stand-alone:
 ### Dependencies
 Assuming `torch` and `torchvision` is installed:
 ```bash
-pip install pytorch-lightning diffusers einops
+pip install pytorch-lightning==1.9.3 diffusers einops
 ```
 
 ---

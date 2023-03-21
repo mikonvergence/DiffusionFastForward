@@ -110,6 +110,7 @@ There are many great projects focused on diffusion generative models. However, m
 * OpenAI [improved-diffusion](https://github.com/openai/improved-diffusion)
 * CompVis [latent-diffusion](https://github.com/CompVis/latent-diffusion)
 * Meta [DiT](https://github.com/facebookresearch/DiT)
+* MONAI [GenerativeModels for Medical Imaging](https://github.com/Project-MONAI/GenerativeModels)
 
 ### Other Educational Resources
 Some excellent materials have already been published on the topic! Huge respect to all of the creators :pray: - check them out if their work has helped you!
